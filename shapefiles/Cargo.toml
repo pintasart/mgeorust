@@ -5,4 +5,5 @@ edition = "2024"
 
 [dependencies]
 gdal = "0.18.0"
+pkg-config = "0.3.32"
 shapefile = "0.7.0"

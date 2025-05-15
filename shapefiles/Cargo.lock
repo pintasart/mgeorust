@@ -185,6 +185,7 @@ name = "shapefiles"
 version = "0.1.0"
 dependencies = [
  "gdal",
+ "pkg-config",
  "shapefile",
 ]
 
